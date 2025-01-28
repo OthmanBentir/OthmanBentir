@@ -18,10 +18,6 @@ Hi, I’m **Othman Bentir**, a results-driven software engineer with a passion f
 - Design and deploy machine learning models using TensorFlow and PyTorch.
 - Expertise in computer vision, time-series analysis, and financial forecasting models.
 
-### 📊 **Data Engineering & Visualization**
-- Advanced skills in data integration, transformation, and visualization.
-- Tools: QlikView, Matplotlib, Power BI, Grafana, Kibana.
-
 ### ⚙️ **End-to-End Development**
 - Proficient in RESTful API development with FastAPI and Spring Boot.
 - Full-stack development expertise with modern frontend and backend technologies.
