@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-**🚀 Innovative Software Engineer | AI & Machine Learning Specialist**
+**🚀 Software Engineer | AI & Machine Learning Specialist**
 
 Hi, I’m **Othman Bentir**, a results-driven software engineer with a passion for solving complex challenges through cutting-edge technology. With a Master’s degree in Artificial Intelligence and Distributed Systems, I specialize in building scalable, efficient solutions that integrate seamlessly into diverse systems.
 
